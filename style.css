@@ -193,4 +193,30 @@ footer#rodape-001 a {
         font-size: 20px;
         color: black;
     }
+
+    header#header-site-001 {
+        display:none;
+    }
+
+    main#containner {
+        display:none;
+    }
+
+    main#conteudo-001 {
+        display:none;
+    }
+
+    div#containner-002 {
+        display:none;
+    }
+
+    footer#rodape-001 {
+        display:none;
+    }
+
+    header#header-site-001 {
+        display:none;
+    }
+
+    
 }
